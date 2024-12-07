@@ -129,7 +129,7 @@ export const songsData = [
         file: song1,
         album: "Poems,Prayers and Promises",
         date: "Jan 1,1971",
-        desc:"Song by John Denver",
+        desc:"John Denver",
         duration:"3:10"
     },
     {
@@ -139,7 +139,7 @@ export const songsData = [
         file: song3,
         album: "Combat Rock",
         date: "Jan 1,1982",
-        desc:"Song by The Clash",
+        desc:"The Clash",
         duration:"3:08"
     },
     {
@@ -149,7 +149,7 @@ export const songsData = [
         file: song4,
         album: "Use Your Illusion I",
         date: "Sept 17,1991",
-        desc:"Song by Gun's and Roses",
+        desc:"Gun's and Roses",
         duration:"8:56"
     },
     {
@@ -159,7 +159,7 @@ export const songsData = [
         file: song2,
         album: "Open Up and Say...Ahh!",
         date: "May 3,1988",
-        desc:"Song by Poison",
+        desc:"Poison",
         duration:"4:20"
     },
     {
@@ -169,7 +169,7 @@ export const songsData = [
         file: song5,
         album: "Hopes And Fears",
         date: "May 10,2004",
-        desc:"Song by Keane",
+        desc:"Keane",
         duration:"3:57"
     },
     {
@@ -179,7 +179,7 @@ export const songsData = [
         file: song7,
         album: "Forever Young",
         date: "Jan 1,1984",
-        desc:"Song by Alphavile",
+        desc:"Alphavile",
         duration:"3:46"
     },
     {
@@ -189,7 +189,7 @@ export const songsData = [
         file: song6,
         album: "Come and Get Your Love",
         date: "Nov 1,1973",
-        desc:"Song by RedBone",
+        desc:"RedBone",
         duration:"3:25"
     },
     {
@@ -199,7 +199,7 @@ export const songsData = [
         file: song8,
         album: "One More Light",
         date: "May 19,2017",
-        desc:"Song by Linkin Park",
+        desc:"Linkin Park",
         duration:"4:15"
     },
     {
@@ -209,17 +209,17 @@ export const songsData = [
         file: song9,
         album: "If You Knew Suzi...",
         date: "Dec 1,1978",
-        desc:"Song by Chris Norman, Suzi Quatro",
+        desc:"Chris Norman, Suzi Quatro",
         duration:"3:58"
     },
     {
-        id:8,
+        id:9,
         name: "To Love Somebody",
         image: img18,
         file: song10,
-        album: "If You Knew Suzi...",
+        album: "Rediscovered Love Songs",
         date: "Dec 1,1978",
-        desc:"Song by Chris Norman",
+        desc:"Chris Norman",
         duration:"3:58"
     },
 
