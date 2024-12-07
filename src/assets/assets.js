@@ -36,12 +36,18 @@ import img12 from './img12.jpg'
 import img14 from './img14.jpg'
 import img15 from './img15.jpg'
 import img16 from './img16.jpg'
+import img17 from './img17.jpg'
+import img18 from './img18.jpg'
 import song1 from './song1.mp3'
 import song2 from './song2.mp3'
 import song3 from './song3.mp3'
 import song4 from './song4.mp3'
 import song5 from './song5.mp3'
 import song6 from './song6.mp3'
+import song7 from './song7.mp3'
+import song8 from './song8.mp3'
+import song9 from './song9.mp3'
+import song10 from './song10.mp3'
 
 export const assets = {
     bell_icon,
@@ -118,66 +124,103 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Take Me Home, County Road",
+        name: "Take Me Home",
         image: img1,
-        file:song1,
+        file: song1,
+        album: "Poems,Prayers and Promises",
+        date: "Jan 1,1971",
         desc:"Song by John Denver",
         duration:"3:10"
     },
     {
         id:1,
-        name: "Should I Stay Or Should I Go",
+        name: "Should I Stay Or Should ..",
         image: img2,
-        file:song2,
+        file: song3,
+        album: "Combat Rock",
+        date: "Jan 1,1982",
         desc:"Song by The Clash",
-        duration:"2:20"
+        duration:"3:08"
     },
     {
         id:2,
         name: "November Rain",
         image: img3,
-        file:song3,
+        file: song4,
+        album: "Use Your Illusion I",
+        date: "Sept 17,1991",
         desc:"Song by Gun's and Roses",
-        duration:"2:32"
+        duration:"8:56"
     },
     {
         id:3,
-        name: "Every Rose Has it's Thron (2003 Remastered)",
+        name: "Every Rose Has it's Thron",
         image: img4,
-        file:song4,
+        file: song2,
+        album: "Open Up and Say...Ahh!",
+        date: "May 3,1988",
         desc:"Song by Poison",
-        duration:"2:50"
+        duration:"4:20"
     },
     {
         id:4,
-        name: "SomeWhere Only We Know",
+        name: "SomeWhere Only We",
         image: img5,
-        file:song5,
+        file: song5,
+        album: "Hopes And Fears",
+        date: "May 10,2004",
         desc:"Song by Keane",
-        duration:"3:10"
+        duration:"3:57"
     },
     {
         id:5,
         name: "Forever Young",
-        image: img14    ,
-        file:song3,
+        image: img14,
+        file: song7,
+        album: "Forever Young",
+        date: "Jan 1,1984",
         desc:"Song by Alphavile",
-        duration:"2:45"
+        duration:"3:46"
     },
     {
         id:6,
         name: "Come And Get Your Love",
         image: img7,
-        file:song6,
+        file: song6,
+        album: "Come and Get Your Love",
+        date: "Nov 1,1973",
         desc:"Song by RedBone",
-        duration:"2:18"
+        duration:"3:25"
     },
     {
         id:7,
         name: "One More Light",
         image: img12,
-        file:song2,
+        file: song8,
+        album: "One More Light",
+        date: "May 19,2017",
         desc:"Song by Linkin Park",
-        duration:"2:35"
-    }
+        duration:"4:15"
+    },
+    {
+        id:8,
+        name: "Stumblin' In",
+        image: img17,
+        file: song9,
+        album: "If You Knew Suzi...",
+        date: "Dec 1,1978",
+        desc:"Song by Chris Norman, Suzi Quatro",
+        duration:"3:58"
+    },
+    {
+        id:8,
+        name: "To Love Somebody",
+        image: img18,
+        file: song10,
+        album: "If You Knew Suzi...",
+        date: "Dec 1,1978",
+        desc:"Song by Chris Norman",
+        duration:"3:58"
+    },
+
 ]
